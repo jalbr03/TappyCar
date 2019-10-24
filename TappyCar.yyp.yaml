@@ -20,10 +20,6 @@ assets:
       - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | d3950aaf-65c6-41fe-8f1e-c081fffd5b39"
       - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5e43575f-9e85-4499-8482-021b8f61d083"
       - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 7fda34fe-ef8a-4edf-b444-4a66a56ec478"
-      - "options\\ios\\options_ios.yy | GMiOSOptions | 8427047f-9ef8-4c77-89f3-9c20623d07b6 | 37b7ab3d-c572-4688-a2f1-e5b4161bc173"
-      - "options\\tvos\\options_tvos.yy | GMtvOSOptions | 93566aad-c3b3-48a9-8fa7-9c5ee19f74ac | 39bc6987-2f00-4470-adce-3b10a841ed10"
-      - "options\\amazonfire\\options_amazonfire.yy | GMAmazonFireOptions | a128950b-5063-4876-b4a6-b99dbd2ea6d1 | 9e1af0c6-2a31-4d59-be2b-449a3bfbe489"
-      - "options\\android\\options_android.yy | GMAndroidOptions | e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f | 3f8c7560-d7ce-4259-abc0-22bad1452ac7"
   - "configs | GMConfig | a5efcb1a-c070-4474-8b32-ed9d5b896204 | f22e7e68-4436-45d3-a897-1ff5cb96815a": []
 projectExtras: 
   IsDnDProject: false
