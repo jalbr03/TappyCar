@@ -19,3 +19,8 @@ if (isLtPressed xor isRtPressed) {
 		x += spd;
 	}
 }
+
+if (place_meeting(x, y, obj_friend)) {
+	show_message("You met your friend!");
+	x -= 10;
+}
