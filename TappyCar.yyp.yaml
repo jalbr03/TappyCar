@@ -1,0 +1,81 @@
+assets: 
+  - "sprites | GMSprite | 3e44d72d-0b05-4ec7-817d-5f39183703c9 | 2be671ca-9938-496b-83ac-1cfc39e7de80": []
+  - "tilesets | GMTileSet | 851c410c-d022-426b-be36-1f20edb668df | 934908ba-feaa-418b-b98f-52b593021da3": []
+  - "sounds | GMSound | 930fa64c-9cca-46d8-9d70-ddccc36751c8 | 88843081-c675-45df-b9c4-a654c0204ae8": []
+  - "paths | GMPath | 38eb2430-6321-4a14-a190-b925640a753f | 1961cba4-cd09-418a-8998-3b61ad706724": []
+  - "scripts | GMScript | 09443015-336b-49e7-b48e-6b438578a4e1 | 3ed55974-7fc2-4542-8765-a5df9d48627c": []
+  - "shaders | GMShader | 4c7ccd58-6479-4db0-a73d-9c861ec153f3 | a4290619-eb7c-49fb-a6b6-6da31a1bd9ea": []
+  - "fonts | GMFont | 2b1458aa-cab8-472f-a685-81b3e5e98e6f | 448d26a8-1aef-4d34-b3aa-3606bd73d44f": []
+  - "timelines | GMTimeline | 920e1902-b2f3-427f-a482-8f346c6ab09f | 866c90dc-367f-4235-a345-86bce6ce3c24": []
+  - "objects | GMObject | b5ec380d-5902-498d-8ea0-7bd1d4ef377e | fb6045e1-244a-46f6-8abf-233103e480f3": []
+  - "rooms | GMRoom | d937dd3f-ed3f-4c12-a923-c47b79fe176c | 77e83d78-9ceb-440d-94b6-ba1d0d46775f": 
+      - "?room0 | GMRoom | 7cd80477-2699-4551-85d6-844930d6ab30 | 49ba4343-fd07-4076-97d1-72a160e4d8f1"
+  - "notes | GMNotes | c15a9e06-5b20-4849-aee2-a11b8d1dcd2e | 0ad478cc-38ac-4fa5-bee5-cd04d764a1b3": []
+  - "datafiles | GMIncludedFile | 2af5f0d4-2227-47b7-890d-3ddaab57a240 | a1076440-913b-4f4b-84fb-7bbf4cea2bef": []
+  - "extensions | GMExtension | 9fce386f-eae6-4f41-904f-e40440c6e12d | d1a2afb3-5a9b-418d-87aa-f070c2f9fd3c": []
+  - "options | GMOptions | 391ebfbb-b151-46a7-b945-717506e8c87f | 4a848c3c-6ca7-41cb-8145-602f98aedeaf": 
+      - "options\\tvos\\options_tvos.yy | GMtvOSOptions | 93566aad-c3b3-48a9-8fa7-9c5ee19f74ac | 39bc6987-2f00-4470-adce-3b10a841ed10"
+      - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | d3950aaf-65c6-41fe-8f1e-c081fffd5b39"
+      - "options\\ios\\options_ios.yy | GMiOSOptions | 8427047f-9ef8-4c77-89f3-9c20623d07b6 | 37b7ab3d-c572-4688-a2f1-e5b4161bc173"
+      - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5e43575f-9e85-4499-8482-021b8f61d083"
+      - "options\\amazonfire\\options_amazonfire.yy | GMAmazonFireOptions | a128950b-5063-4876-b4a6-b99dbd2ea6d1 | 9e1af0c6-2a31-4d59-be2b-449a3bfbe489"
+      - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 7fda34fe-ef8a-4edf-b444-4a66a56ec478"
+      - "options\\android\\options_android.yy | GMAndroidOptions | e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f | 3f8c7560-d7ce-4259-abc0-22bad1452ac7"
+  - "configs | GMConfig | a5efcb1a-c070-4474-8b32-ed9d5b896204 | f22e7e68-4436-45d3-a897-1ff5cb96815a": []
+projectExtras: 
+  IsDnDProject: false
+  configs: []
+  id: "35eadf99-e136-4aaf-991c-ba16c4fedc37"
+  modelName: GMProject
+  mvc: "1.0"
+  option_ecma: false
+  parentProject: 
+    alteredResources: 
+      - Key: "ed6a955d-5826-4f98-a450-10b414266c27"
+        Value: 
+          configDeltas: 
+            - inherited
+          id: "e94c5754-888b-4eae-9179-2c813f361a9c"
+          resourcePath: "options\\main\\options_main.yy"
+          resourceType: GMMainOptions
+    hiddenResources: []
+    id: "a669d490-f3f6-4b78-a961-eb091f9803b8"
+    modelName: GMProjectParent
+    mvc: "1.0"
+    projectPath: "${base_project}"
+  tutorial: ""
+viewExtras: 
+  "09443015-336b-49e7-b48e-6b438578a4e1": 
+    localisedFolderName: ResourceTree_Scripts
+  "2af5f0d4-2227-47b7-890d-3ddaab57a240": 
+    localisedFolderName: ResourceTree_IncludedFiles
+  "2b1458aa-cab8-472f-a685-81b3e5e98e6f": 
+    localisedFolderName: ResourceTree_Fonts
+  "38eb2430-6321-4a14-a190-b925640a753f": 
+    localisedFolderName: ResourceTree_Paths
+  "391ebfbb-b151-46a7-b945-717506e8c87f": 
+    localisedFolderName: ResourceTree_Options
+  "3e44d72d-0b05-4ec7-817d-5f39183703c9": 
+    localisedFolderName: ResourceTree_Sprites
+  "4c7ccd58-6479-4db0-a73d-9c861ec153f3": 
+    localisedFolderName: ResourceTree_Shaders
+  "851c410c-d022-426b-be36-1f20edb668df": 
+    localisedFolderName: ResourceTree_Tilesets
+  "920e1902-b2f3-427f-a482-8f346c6ab09f": 
+    localisedFolderName: ResourceTree_Timelines
+  "930fa64c-9cca-46d8-9d70-ddccc36751c8": 
+    localisedFolderName: ResourceTree_Sounds
+  "9fce386f-eae6-4f41-904f-e40440c6e12d": 
+    localisedFolderName: ResourceTree_Extensions
+  "a5efcb1a-c070-4474-8b32-ed9d5b896204": 
+    localisedFolderName: ResourceTree_Configs
+  "b5ec380d-5902-498d-8ea0-7bd1d4ef377e": 
+    localisedFolderName: ResourceTree_Objects
+  "c15a9e06-5b20-4849-aee2-a11b8d1dcd2e": 
+    localisedFolderName: ResourceTree_Notes
+  "d937dd3f-ed3f-4c12-a923-c47b79fe176c": 
+    localisedFolderName: ResourceTree_Rooms
+viewRoot: 
+  id: "9e7bc678-0fd6-441c-bd33-07a3500df55e"
+  mvc: "1.1"
+  resourceID: "5a9628b3-bb05-4286-afbe-a41a3e4a6945"
