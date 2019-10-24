@@ -1,6 +1,7 @@
 assets: 
   - "sprites | GMSprite | 3e44d72d-0b05-4ec7-817d-5f39183703c9 | 2be671ca-9938-496b-83ac-1cfc39e7de80": 
-      - "?spr_dude | GMSprite | 43d07b07-ac89-4f0b-9cce-f9ef63a69562 | 27f4eea2-d5fa-4da9-9db9-dd4f4175b5b6"
+      - "?spr_dude_blood | GMSprite | 43d07b07-ac89-4f0b-9cce-f9ef63a69562 | 27f4eea2-d5fa-4da9-9db9-dd4f4175b5b6"
+      - "?spr_dude | GMSprite | 5b93bd40-ede1-4e84-acca-25c0f3a857d9 | b4f91932-a4d2-4b63-8e96-1d9d764fcf31"
   - "tilesets | GMTileSet | 851c410c-d022-426b-be36-1f20edb668df | 934908ba-feaa-418b-b98f-52b593021da3": []
   - "sounds | GMSound | 930fa64c-9cca-46d8-9d70-ddccc36751c8 | 88843081-c675-45df-b9c4-a654c0204ae8": []
   - "paths | GMPath | 38eb2430-6321-4a14-a190-b925640a753f | 1961cba4-cd09-418a-8998-3b61ad706724": []
@@ -19,6 +20,10 @@ assets:
       - "options\\windows\\options_windows.yy | GMWindowsOptions | cc98d028-7bdd-4680-85f3-c87a7baa481e | d3950aaf-65c6-41fe-8f1e-c081fffd5b39"
       - "options\\mac\\options_mac.yy | GMMacOptions | f418569b-3bdd-4706-a0e4-364317f54032 | 5e43575f-9e85-4499-8482-021b8f61d083"
       - "options\\linux\\options_linux.yy | GMLinuxOptions | a9188620-a624-4a5a-83ae-a1b53faf038b | 7fda34fe-ef8a-4edf-b444-4a66a56ec478"
+      - "options\\ios\\options_ios.yy | GMiOSOptions | 8427047f-9ef8-4c77-89f3-9c20623d07b6 | 37b7ab3d-c572-4688-a2f1-e5b4161bc173"
+      - "options\\tvos\\options_tvos.yy | GMtvOSOptions | 93566aad-c3b3-48a9-8fa7-9c5ee19f74ac | 39bc6987-2f00-4470-adce-3b10a841ed10"
+      - "options\\amazonfire\\options_amazonfire.yy | GMAmazonFireOptions | a128950b-5063-4876-b4a6-b99dbd2ea6d1 | 9e1af0c6-2a31-4d59-be2b-449a3bfbe489"
+      - "options\\android\\options_android.yy | GMAndroidOptions | e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f | 3f8c7560-d7ce-4259-abc0-22bad1452ac7"
   - "configs | GMConfig | a5efcb1a-c070-4474-8b32-ed9d5b896204 | f22e7e68-4436-45d3-a897-1ff5cb96815a": []
 projectExtras: 
   IsDnDProject: false

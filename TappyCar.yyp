@@ -90,7 +90,7 @@
             "Key": "43d07b07-ac89-4f0b-9cce-f9ef63a69562",
             "Value": {
                 "id": "27f4eea2-d5fa-4da9-9db9-dd4f4175b5b6",
-                "resourcePath": "sprites\\spr_dude\\spr_dude.yy",
+                "resourcePath": "sprites\\spr_dude_blood\\spr_dude_blood.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -100,6 +100,14 @@
                 "id": "a4290619-eb7c-49fb-a6b6-6da31a1bd9ea",
                 "resourcePath": "views\\4c7ccd58-6479-4db0-a73d-9c861ec153f3.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5b93bd40-ede1-4e84-acca-25c0f3a857d9",
+            "Value": {
+                "id": "b4f91932-a4d2-4b63-8e96-1d9d764fcf31",
+                "resourcePath": "sprites\\spr_dude\\spr_dude.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
