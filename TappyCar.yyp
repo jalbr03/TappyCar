@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "00e69642-5832-402e-b9f4-cd5c6b2e9df5",
+            "Value": {
+                "id": "d9e195eb-5444-4880-baf5-af02218d1de7",
+                "resourcePath": "objects\\obj_friend\\obj_friend.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "05b77354-754a-4900-a5fc-d57aea344254",
             "Value": {
                 "id": "9c3a1ecd-65c2-4565-8c3f-c6dae7413fb7",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "5ce02581-501a-478b-88d2-8d0f5ace98c2",
+            "Value": {
+                "id": "a0d44dab-7986-4406-b553-93df6aa55ad1",
+                "resourcePath": "sprites\\spr_friend\\spr_friend.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "70d041e1-8585-448e-a644-6af4f3dc6737",
             "Value": {
                 "id": "a04f51a1-b31a-42e6-b9f0-70bb0c074f0f",
@@ -132,14 +148,6 @@
                 "id": "49ba4343-fd07-4076-97d1-72a160e4d8f1",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "8427047f-9ef8-4c77-89f3-9c20623d07b6",
-            "Value": {
-                "id": "37b7ab3d-c572-4688-a2f1-e5b4161bc173",
-                "resourcePath": "options\\ios\\options_ios.yy",
-                "resourceType": "GMiOSOptions"
             }
         },
         {
@@ -167,14 +175,6 @@
             }
         },
         {
-            "Key": "93566aad-c3b3-48a9-8fa7-9c5ee19f74ac",
-            "Value": {
-                "id": "39bc6987-2f00-4470-adce-3b10a841ed10",
-                "resourcePath": "options\\tvos\\options_tvos.yy",
-                "resourceType": "GMtvOSOptions"
-            }
-        },
-        {
             "Key": "9e7bc678-0fd6-441c-bd33-07a3500df55e",
             "Value": {
                 "id": "5a9628b3-bb05-4286-afbe-a41a3e4a6945",
@@ -188,14 +188,6 @@
                 "id": "d1a2afb3-5a9b-418d-87aa-f070c2f9fd3c",
                 "resourcePath": "views\\9fce386f-eae6-4f41-904f-e40440c6e12d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a128950b-5063-4876-b4a6-b99dbd2ea6d1",
-            "Value": {
-                "id": "9e1af0c6-2a31-4d59-be2b-449a3bfbe489",
-                "resourcePath": "options\\amazonfire\\options_amazonfire.yy",
-                "resourceType": "GMAmazonFireOptions"
             }
         },
         {
@@ -244,14 +236,6 @@
                 "id": "77e83d78-9ceb-440d-94b6-ba1d0d46775f",
                 "resourcePath": "views\\d937dd3f-ed3f-4c12-a923-c47b79fe176c.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "e42bf5cc-3f46-4d67-a6d0-a4885a11ac3f",
-            "Value": {
-                "id": "3f8c7560-d7ce-4259-abc0-22bad1452ac7",
-                "resourcePath": "options\\android\\options_android.yy",
-                "resourceType": "GMAndroidOptions"
             }
         },
         {

@@ -21,6 +21,11 @@ if (isLtPressed xor isRtPressed) {
 	}
 }
 
+if (place_meeting(x, y, obj_friend)) {
+	show_message("You met your friend!");
+	x -= 10;
+}
+
 if(isdash){
 	move_towards_point(mouse_x,mouse_y,20);
 	if(alarm[1] == -1) alarm[1] = 5;
