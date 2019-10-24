@@ -2,6 +2,7 @@ assets:
   - "sprites | GMSprite | 3e44d72d-0b05-4ec7-817d-5f39183703c9 | 2be671ca-9938-496b-83ac-1cfc39e7de80": 
       - "?spr_dude_blood | GMSprite | 43d07b07-ac89-4f0b-9cce-f9ef63a69562 | 27f4eea2-d5fa-4da9-9db9-dd4f4175b5b6"
       - "?spr_dude | GMSprite | 5b93bd40-ede1-4e84-acca-25c0f3a857d9 | b4f91932-a4d2-4b63-8e96-1d9d764fcf31"
+      - "?spr_killer_dude | GMSprite | 70d041e1-8585-448e-a644-6af4f3dc6737 | a04f51a1-b31a-42e6-b9f0-70bb0c074f0f"
   - "tilesets | GMTileSet | 851c410c-d022-426b-be36-1f20edb668df | 934908ba-feaa-418b-b98f-52b593021da3": []
   - "sounds | GMSound | 930fa64c-9cca-46d8-9d70-ddccc36751c8 | 88843081-c675-45df-b9c4-a654c0204ae8": []
   - "paths | GMPath | 38eb2430-6321-4a14-a190-b925640a753f | 1961cba4-cd09-418a-8998-3b61ad706724": []
@@ -11,6 +12,7 @@ assets:
   - "timelines | GMTimeline | 920e1902-b2f3-427f-a482-8f346c6ab09f | 866c90dc-367f-4235-a345-86bce6ce3c24": []
   - "objects | GMObject | b5ec380d-5902-498d-8ea0-7bd1d4ef377e | fb6045e1-244a-46f6-8abf-233103e480f3": 
       - "?obj_dude | GMObject | 05b77354-754a-4900-a5fc-d57aea344254 | 9c3a1ecd-65c2-4565-8c3f-c6dae7413fb7"
+      - "?obj_killer_dude | GMObject | 227f504f-9ce6-4417-a1a4-b7367e0444cc | f4426208-c686-4b24-a65d-dcc2d6c25d55"
   - "rooms | GMRoom | d937dd3f-ed3f-4c12-a923-c47b79fe176c | 77e83d78-9ceb-440d-94b6-ba1d0d46775f": 
       - "?room0 | GMRoom | 7cd80477-2699-4551-85d6-844930d6ab30 | 49ba4343-fd07-4076-97d1-72a160e4d8f1"
   - "notes | GMNotes | c15a9e06-5b20-4849-aee2-a11b8d1dcd2e | 0ad478cc-38ac-4fa5-bee5-cd04d764a1b3": []
